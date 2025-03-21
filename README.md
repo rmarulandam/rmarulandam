@@ -3,7 +3,7 @@
 ## About Me
 
 - I’m currently working on [Project Name](project-link)
-- I’m currently learning [Technology/Skill]
+- I’m currently learning git/github.
 - I’m looking to collaborate on [Project Type]
 - I’m looking for help with [Topic]
 - Ask me about [Subject]
